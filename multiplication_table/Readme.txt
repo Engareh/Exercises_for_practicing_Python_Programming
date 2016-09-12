@@ -1,4 +1,4 @@
-Write a program which print out a multiplication table (10 * 10) on the screen which columns are aligned like below:
+Write a program which print out a multiplication table (10 * 10) to the screen which columns are aligned like below
 
 
 1    2    3    4    5    6    7    8    9    10   
